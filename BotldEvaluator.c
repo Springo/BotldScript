@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
 
 	//Checks if initial args are in the correct format
 	if (argc != 2) {
-		printf("Format: BotdlEvaluator <cnt file name>\n");
+		printf("Format: BotldEvaluator <cnt file name>\n");
 		exit(1);
 	}
 
