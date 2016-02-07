@@ -1,0 +1,7 @@
+bot var1 = botli("Input var1: ")
+bot var2 = botli("Input var2: ")
+
+?(var1 smae var2)
+	botlo("var1 is equal to var2")
+!
+	botlo("var is not equal to var2")
