@@ -7,6 +7,7 @@ botli - gets input
 bot - used to initialize variables
 botls - array
 ? - if
+! - else
 +-<>/* - standard operators
 smae - ==
 or - or
