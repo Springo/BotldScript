@@ -1,4 +1,16 @@
 # BotldScript
-# test1
-# test2
-# test3
+
+List of commands
+
+botlo - prints argument
+botli - gets input
+bot - used to initialize variables
+botls - array
+? - if
++-<>/* - standard operators
+smae - ==
+or - or
+and - and
+not - not 
+botlin - while loop
+ 
